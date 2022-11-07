@@ -1,4 +1,4 @@
-# Studienleistung I: Bouncer | 3. Bouncer gräbt nach Kristallen
+# Studienleistung I: Bouncer | 3. Bouncer leert eine Höhle
 
 ## Allgemeine Hinweise zur Studienleistung
 In dieser Studienleistung werden Sie drei Programmieraufgaben lösen.
@@ -7,9 +7,9 @@ Um die Aufgaben zu bearbeiten, müssen Sie zuerst das jeweilige Projekt in Intel
 Diese Projekte sind:
 * ```Studienleistung-I-Bouncer-1-BouncerMaltEineSpirale```
 * ```Studienleistung-I-Bouncer-2-BouncerBautEineBrücke```
-* ```Studienleistung-I-Bouncer-3-BouncerGraebtNachKristallen```
+* ```Studienleistung-I-Bouncer-3-BouncerLeertEineHöhle```
 
-Für die Teilaufgabe, die in diesem Dokument beschrieben ist, öffnen Sie bitte das Projekt: ```Studienleistung-I-Bouncer-3-BouncerGraebtNachKristallen```
+Für die Teilaufgabe, die in diesem Dokument beschrieben ist, öffnen Sie bitte das Projekt: ```Studienleistung-I-Bouncer-3-BouncerLeertEineHöhle```
 
 Nutzen Sie zum Lösen der einzelnen Aufgaben die bereitgestellten Klassendateien.
 Zum Einreichen Ihrer Aufgaben nutzen Sie die entsprechende Funktion in GRIPS.
@@ -53,7 +53,7 @@ Testen Sie daher ihr Programm mit allen drei mitgelieferten Maps (cave, cave2, c
 
 | Bouncer steht in einer Welt mit einer Höhle vor Bouncer und Paletten hinter und vor Bouncer. | Bouncer hat die Höhle abgetragen und Erdreich und Kristalle getrennt von einander gestapelt. |
 |:------:|:------:|
-| ![Bouncer steht links neben dem Eingang zur Höhle.](./docs/cave1.png) | ![Bouncer steht im Eingang zur Höhle nachdem die Höhle abgebaut wurde](./docs/cave2.png) |
+| ![Bouncer steht links neben dem Eingang zur Höhle.](./docs/cave.png) | ![Bouncer steht im Eingang zur Höhle nachdem die Höhle abgebaut wurde](./docs/cave2.png) |
 
 ## Aufgabe
 
