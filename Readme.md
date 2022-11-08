@@ -38,7 +38,7 @@ Bouncer steht in einer Welt mit einer großen Höhle an der linken Wand.
 Die Höhle hat immer genau einen Eingangstunnel der genau ein Feld breit ist.
 Bouncer steht rechts neben der Höhle und links von einer Palette (grüne Felder).
 Außerdem sind innerhalb der Höhle keine Hindernisse und eine Höhle ist ein rechteckiger Raum.
-Innerhalb der Höhle gibt es abtragbare Erde (grüne Felder).
+Innerhalb der Höhle gibt es abtragbare Erde (blaue Felder).
 Über die ganze Breite der Höhle befindet sich auf Höhe des Eingangs nie Erdreich.
 Bouncer will das in der Höhle befindliche Erdreich abbauen und aus der Höhle schaffen.
 Dazu verwendet Bounder einen Rucksack, den Bouncer mit Erdreich befüllt bis dieser voll ist.
@@ -63,10 +63,10 @@ Lösen Sie folgende Teilaufgaben, damit Bouncer alle Kristalle in einer Höhle f
 2. Bouncer muss sich in der Höhle orientieren und bei einem definierten Punkt mit dem Abbau beginnen, hierfür verwendet Bouncer die linke untere Ecke der Höhle
 3. Beginnend von diesem Startpunkt geht Bouncer die Höhle von links unten nach rechts oben in Spalten durch
   1. Dabei trägt Bouncer Material ab (färbt das Feld weiß) und verstaut dieses in einen (gedachten) Rucksack. 
-  2. Der Rucksack hat eine Kapazität (z.B. **5** als Standard; das Programm soll mit beliebiger Rucksackkapazität funktionieren), d.h. Bouncer zählt mit, wie viel Platz noch verfügbar ist. 
+  2. Der Rucksack hat eine Kapazität (z.B. **3** als Standard; das Programm soll mit beliebiger Rucksackkapazität funktionieren), d.h. Bouncer zählt mit, wie viel Platz noch verfügbar ist. 
   3. Ist der Rucksack voll geht Bouncer zurück zum Höhleneingang
-  4. Bouncer stapelt auf der *Palette* das Erdreich von unten nach oben und von rechts nach links (färbt die entsprechenden Felder grün) 
-  5. Bouncer kann nur eine bestimmte Anzahl (z.B. **7** als Standard, das Programm soll mit beliebiger Stapelhöhe funktionieren) von Feldern Erdreich stapeln ehe Bouncer einen neuen Stapel links vom Vorherigen beginnt
+  4. Bouncer stapelt auf der *Palette* das Erdreich von unten nach oben und von rechts nach links (färbt die entsprechenden Felder blau) 
+  5. Bouncer kann nur eine bestimmte Anzahl (z.B. **5** als Standard, das Programm soll mit beliebiger Stapelhöhe funktionieren) von Feldern Erdreich stapeln ehe Bouncer einen neuen Stapel links vom Vorherigen beginnt
   6. Hat Bouncer kein Erdreich mehr im Rucksack geht Bouncer zum Eingang der Höhle
 4. Bouncer wiederholt Schritte 2., 3. und 4. bis kein Material mehr in der Höhle abgebaut werden kann
 
